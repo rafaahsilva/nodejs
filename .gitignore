@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Não possui necessidade de versionamento 
+node_modules/
